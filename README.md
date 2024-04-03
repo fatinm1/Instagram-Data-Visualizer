@@ -15,6 +15,7 @@ JavaScript Libraries: Chart.js, Papa Parse
 Python Visualization
 1. Ensure Python 3.x is installed on your system.
 2. Install required Python libraries:
+
 pip install pandas plotly numpy matplotlib seaborn
 4. Run the visualizer.py script to generate the plot:
 python visualizer.py
