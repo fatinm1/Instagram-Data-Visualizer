@@ -46,6 +46,6 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
                 }
             });
         },
-        header: true // Ensure this is set to true to treat the first row as headers
+        header: true 
     });
 });
