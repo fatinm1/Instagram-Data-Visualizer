@@ -47,4 +47,4 @@ The data will be automatically parsed and visualized as a scatter plot.
 We welcome contributions to this project! Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
