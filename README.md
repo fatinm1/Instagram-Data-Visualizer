@@ -31,6 +31,7 @@ Ensure your CSV file is structured with the following columns:
 
 - First column: Impressions
 - Second column: Likes
+
 Example:
 Impressions,Likes
 100,10
